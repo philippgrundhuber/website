@@ -60,15 +60,57 @@ If you want to compare separation models to existing source separation literatur
 
 Throughout the years, we found a few errors in the dataset. At some point we are going to fix them and issue a new release:
 
-| Track                             | Position       | Error                                                           |
-| --------------------------------- | ---------------| ----------------------------------------------------------------|
-| Al James - Schoolboy Facination   |                | synth vocals mixed into other                                   |
-| Chris Durban - Celebrate          |                | bleeding of other instruments into vocals                       | 
-| Detsky Sad - Walkie Talkie        |                | other mixed into drums                                          |
-| Enda Reilly - Cur An Long Ag Seol |                | speaking at the start of other track                            |
-| Hop Along - Sister Cities         |                | bleeding of other instruments into vocals                       |
-| Leaf - Wicked                     | 2:20, 3:02     | electric-Guitar is mixed into drums                             |
-| PR - Oh No                        |                | sum of sources does not add up to the mix for the left channel  |
+| Track                                | Position       | Error                                                           |
+| ------------------------------------ | ---------------| ----------------------------------------------------------------|
+| Al James - Schoolboy Facination      |                | synth vocals mixed into other                                   |
+| Chris Durban - Celebrate             |                | bleeding of other instruments into vocals                       | 
+| Detsky Sad - Walkie Talkie           |                | other mixed into drums                                          |
+| Enda Reilly - Cur An Long Ag Seol    |                | speaking at the start of other track                            |
+| Hop Along - Sister Cities            |                | bleeding of other instruments into vocals                       |
+| Leaf - Wicked                        | 2:20, 3:02     | electric-Guitar is mixed into drums                             |
+| PR - Oh No                           |                | sum of sources does not add up to the mix for the left channel  |
+| The So So Glos - Emergency           |                | Bleeding instruments into vocals                                 |
+| The Scarlet Brand - Les Fleurs Du Mal|                | Bleeding instruments into vocals                                 |
+| Strand Of Oaks - Spacestation        |                | Bleeding instruments into vocals                                 |
+| Jokers, Jacks & Kings - Sea Of Leaves |                | Bleeding instruments into vocals                                 |
+| Invisible Familiars - Disturbing Wildlife |             | Bleeding instruments into vocals                               |
+| Drumtracks - Ghost Bitch             |                | Bleeding instruments into vocals                                 |
+| Black Bloc - If You Want Success     |                | Bleeding instruments into vocals                                 |
+| Angels In Amplifiers - I'm Alright    |               | Bleeding instruments into vocals                                 |
+| Buitraker - Revo X                   |                | Bleeding instruments into vocals                                 |
+| Cristina Vane - So Easy              |                | Bleeding instruments into vocals                                 |
+| (Lyndsey Ollard - Catching Up)        |                | Bleeding instruments into vocals                                 |
+| Nerve 9 - Pray For The Rain          |                | Bleeding instruments into vocals                                 |
+| Punkdisco - Oral Hygiene             |                | Bleeding instruments into vocals                                 |
+| The Doppler Shift - Atrophy          |                | Bleeding instruments into vocals                                 |
+| The Easton Ellises - Falcon 69       |                | Bleeding instruments into vocals                                 |
+| The Easton Ellises (Baumi) - SDRNR   |                | Bleeding instruments into vocals                                 |
+| The Long Wait - Dark Horses         |                | Bleeding instruments into vocals                                 |
+| Timboz - Pony                       |                | Bleeding instruments into vocals                                 |
+| Tom McKenzie - Directions            |                | Bleeding instruments into vocals                                 |
+| We Fell From The Sky - Not You      |                | Bleeding instruments into vocals                                 |
+| Zeno - Signs                         |                | Bleeding instruments into vocals                                 |
+| Triviul - Dorothy                    |                | Bleeding other                                                   |
+| PR - Oh No                           |                | Bleeding other                                                   |
+| Matthew Entwistle - Dont You Ever    |                | Humming in Vocal track                                           |
+| Giselle - Moss                       |                | Humming in Vocal track                                           |
+| Creepoid - OldTree                   |                | Humming in Vocal track                                           |
+| BigTroubles - Phantom                |                | Humming in Vocal track                                           |
+| Arise - Run Run Run                  |                | Humming in Vocal track                                           |
+| Mu - Too Bright                      |                | Humming in Vocal track                                           |
+| Fergessen - The Wind                |                | Pumping Effect on Vocals                                         |
+| Fergessen - Nos Palpitants          |                | Pumping Effect on Vocals                                         |
+| Girls Under Glass - We Feel Alright  |                | Pumping Effect on Vocals                                         |
+| James Elder & Mark M Thompson - The English Actor |     | Pumping Effect on Vocals                                         |
+| Signe Jakobsen - What Have You Done To Me |             | Pumping Effect on Vocals                                   |
+| Cnoc An Tursa - Bannockburn          |                | Highly distorted voice                                           |
+| Actions - South                      |                | Highly distorted voice                                           |
+| Skelpolu - Resurrection              |                | Highly distorted voice                                           |
+| Of The Water                         |                | Highly distorted voice                                           |
+| BKS - Bulldozer                      |                | Highly distorted voice                                           |
+| Dark Ride - Burning Bridges          |                | Speaking                                                         |
+| ANiMAL - Clinic A                    |                | Speaking                                                         |
+
 
 
 Please open an issue in this repository if you find more errors.
